@@ -8,4 +8,5 @@
         - ms-python.python
         - ms-ceintl.vscode-language-pack-ru 
 - Установить GitHubDesktop https://desktop.github.com/ и войти в свой аккаунт
-- Скачать репозиторий Homework на свой компьютер
+- File -> Clone repository (Ctrl+Shift+O) Homework на свой компьютер
+- https://github.com/rjvatt/6M-ITKvantum - 2 темы
